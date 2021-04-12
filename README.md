@@ -1,6 +1,6 @@
 # chat-app-sample
 
-##Telepítés
+## Telepítés
 
 **`$ git clone https://github.com/szentedaniel/chat-app-sample.git`**
 
@@ -8,6 +8,6 @@
 
 **`$ npm install`**
 
-##Futtatás
+## Futtatás
 
 **`$ npm run dev`**
